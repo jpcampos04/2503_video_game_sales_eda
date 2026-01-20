@@ -1,4 +1,3 @@
-# Sprint6_project
 # 🎮 Video Game Sales Data Analysis
 
 ## 🧠 Description
@@ -11,6 +10,6 @@ The goal is to understand factors influencing sales, evaluate the impact of rati
 - Jupyter Notebook  
 
 ## 🚀 How to Run
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/jpcampos04/Sprint6_project.git
+```bash
+git clone https://github.com/jpcampos04/2503_video_game_sales_eda.git
+jupyter 2507_predictive_model_gold_recovery.ipynb
