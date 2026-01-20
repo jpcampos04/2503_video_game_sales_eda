@@ -12,4 +12,4 @@ The goal is to understand factors influencing sales, evaluate the impact of rati
 ## 🚀 How to Run
 ```bash
 git clone https://github.com/jpcampos04/2503_video_game_sales_eda.git
-jupyter 2507_predictive_model_gold_recovery.ipynb
+jupyter 2503_video_game_sales.ipynb
